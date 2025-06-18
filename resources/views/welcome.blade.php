@@ -11,7 +11,7 @@
 
 <body>
     <div class="width-50">
-        <livewire:counter />
+        <livewire:bird-form />
     </div>
 
 </body>
